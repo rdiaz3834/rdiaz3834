@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdiaz3834
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... android studio, kotlin, java
-- 💞️ I’m looking to collaborate on ... any thing that will help me with my college path or a good paying job
+- 🌱 I’m currently learning ... android studio, kotlin, java, Lua
+- 💞️ I’m looking to collaborate on ... any thing that will help me with my college path or a job
 - 📫 How to reach me ... rdiaz3834@gmail.com
 
 <!---
